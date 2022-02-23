@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/alecksv/react_portfolio.git/static/css/main.073c9b0a.css",
-    "main.js": "/alecksv/react_portfolio.git/static/js/main.68fb994c.js",
+    "main.js": "/alecksv/react_portfolio.git/static/js/main.303ffc61.js",
     "static/js/787.a2cb61a6.chunk.js": "/alecksv/react_portfolio.git/static/js/787.a2cb61a6.chunk.js",
     "static/media/logo.svg": "/alecksv/react_portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/alecksv/react_portfolio.git/index.html",
     "main.073c9b0a.css.map": "/alecksv/react_portfolio.git/static/css/main.073c9b0a.css.map",
-    "main.68fb994c.js.map": "/alecksv/react_portfolio.git/static/js/main.68fb994c.js.map",
+    "main.303ffc61.js.map": "/alecksv/react_portfolio.git/static/js/main.303ffc61.js.map",
     "787.a2cb61a6.chunk.js.map": "/alecksv/react_portfolio.git/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.68fb994c.js"
+    "static/js/main.303ffc61.js"
   ]
 }
